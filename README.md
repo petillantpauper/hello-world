@@ -3,7 +3,7 @@
 
 My name is Josiah, and I am from Louisville, KY. 
 I have a background in ***Printmaking*** and ***Graphic Design***. 
-Currently, I work for a brewery performing Quality Control/Quality Control tests. 
+Currently, I work for a brewery performing Quality Control/Quality Assurance tests. 
 As for coding, I have some limited experience with: 
 1. HTML
 2. CSS
